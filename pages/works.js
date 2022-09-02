@@ -4,7 +4,7 @@ import { WorkGridItem } from '../components/layouts/grid-item'
 import thumbSharingBoxes from '../public/works/SharingBoxes2.png'
 import thumbCoronaApp from '../public/works/coronaApp.png'
 import thumbAdler from '../public/works/Adler.png'
-import thumbLos from '../public/works/LOS.png'
+import thumbLos from '../public/works/los.png'
 
 const Works = () => {
   return (
