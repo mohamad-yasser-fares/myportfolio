@@ -59,9 +59,9 @@ const Page = () => {
           </Heading>
 
           <Paragraph>
-            I'm a software developer interested in software developing and tech
-            topics, I recently graduated with a bachelor's degree in computer
-            science from TU Clausthal, and looking for new challenges.
+            I&apos;m a software developer interested in software developing and
+            tech topics, I recently graduated with a bachelor&apos;s degree in
+            computer science from TU Clausthal, and looking for new challenges.
           </Paragraph>
 
           <Box align="center" my={4}>

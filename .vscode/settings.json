@@ -1,7 +1,7 @@
 {
-    "workbench.preferredDarkColorTheme": "GitHub Dark Default",
-    "window.autoDetectColorScheme": false,
-    "workbench.colorTheme": "GitHub Dark Default",
-    "workbench.iconTheme": "material-icon-theme",
-    "workbench.preferredHighContrastColorTheme": "Visual Studio Dark"
+  "workbench.preferredDarkColorTheme": "GitHub Dark Default",
+  "window.autoDetectColorScheme": false,
+  "workbench.colorTheme": "GitHub Dark Default",
+  "workbench.iconTheme": "material-icon-theme",
+  "workbench.preferredHighContrastColorTheme": "Visual Studio Dark"
 }

@@ -16,9 +16,7 @@ const Main = ({ children, router }) => {
       </Head>
       <Navbar path={router.asPath} />
       <Container maxW="container.md" pt={14}>
-        <NoSsr>
-          <VoxelCoffee />
-        </NoSsr>
+        <NoSsr></NoSsr>
         {children}
       </Container>
     </Box>
