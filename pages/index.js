@@ -91,7 +91,7 @@ const Page = () => {
 
           <BioSection>
             <BioYear>2022</BioYear>
-            B.Sc graduate in Computer Sceince from TU Clausthal
+            B.Sc graduate in Computer Science from TU Clausthal
           </BioSection>
         </Section>
       </Container>
